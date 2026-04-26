@@ -1,0 +1,33 @@
+css link---->  should be at bottom
+
+<span> tag----> covers proper content
+mx-auto-----> x direction margin create krta h centrailze krne ke liye
+
+
+Web page  1. header
+          2. footer
+
+
+
+
+                header
+
+<ul class="navbar-nav ms-auto"
+
+ms- auto ---> shift right side ul
+
+#header img{
+    width: 150px;
+    box-shadow: 10px 10px black;
+}
+
+box shadow---> logo shadow
+
+
+
+                footer
+
+
+                <form action="" method="post">
+                method="post" is to make sure your query is not visible i.e url id aur password
+

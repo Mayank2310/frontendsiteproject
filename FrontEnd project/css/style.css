@@ -1,0 +1,114 @@
+#header{
+    background: linear-gradient(to right,rgb(250,250,210), rgb(0,0,139));
+    padding: 10px 0px;
+}
+
+#header img{
+    width: 150px;
+    box-shadow: 10px 10px black;
+}
+
+#header ul li a {
+    color: white;
+    transition-property: color;
+    transition-duration: 2s;
+}
+
+#header ul li a:hover{
+        color: rgb(255,110,74);
+}
+
+#header .bi-list{
+    color: black;
+    font-size: 30px;
+}
+
+#banner{
+    background: linear-gradient(to right,rgb(250,250,210), rgb(0,0,139));
+}
+
+
+#banner #banner-img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+#banner img{
+    width: 100%;
+}
+
+#banner h2{
+    text-align: center;
+    color: white;
+}
+
+#banner p{
+    color: blue;
+    font-size: 15px;
+}
+
+#services h2{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+#services{
+    padding: 20px, 0px ;
+}
+#services img{
+    width: 120px;
+}
+
+#services .card{
+    border: 0px solid green ; 
+}
+#testi{
+    padding-top: 30px;
+  padding: 30pxm,0px;
+}
+
+#testi h2{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+#testi img{
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+
+#footer{
+    background: linear-gradient(to right,rgb(250,250,210), rgb(0,0,139));
+    padding-top: 40px;
+}
+
+
+#footer h2{
+    color: white;
+    font-family:'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+#footer span{
+    color: white;
+    font-size: 20px;
+}
+
+#footer p{
+    color: rgb(0,0,139);
+    text-align: justify;
+    font-size: 20px;
+}
+
+#footer-logo{
+    width: 100px;
+}
+
+#footer img{
+    width: 150px;
+    margin-bottom: 15px;
+}
